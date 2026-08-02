@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://upscale.com (upscaleai.com 301-redirects here)
+host: https://upscale.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 200
+  file: ../llms/upscale-ai-llms.txt
+notes: No /.well-known/ discovery surface published; the Webflow-served /llms.txt
+  is the only machine-readable document found and is saved verbatim under llms/.

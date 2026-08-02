@@ -1,0 +1,45 @@
+# upscale.com
+
+> upscale.com website pages and resources.
+
+## Main Pages
+
+- [The Network AI Was Waiting For | Upscale AI](https://upscale.com/): Upscale AI builds next-generation AI network infrastructure with scalable systems, intelligent automation, and seamless connectivity.
+- [Upscale AI Blog | AI-Powered Networking & Ethernet Insights](https://upscale.com/blogs): Explore Upscale AI's blog for insights on next-generation ethernet, open-source network operating systems, and AI-powered networking solutions.
+- [Book a Demo](https://upscale.com/book-a-demo): AI workloads have outpaced the infrastructure built to support them. General-purpose networks weren't designed for the speed, scale, and complexity of modern AI. It’s time for a network designed for the future.
+- [Careers at Upscale AI | Join Our AI Infrastructure Team](https://upscale.com/careers): Explore career opportunities at Upscale AI. Join our team building the networking layer for the AI era and shape the future of ethernet technology.
+- [News](https://upscale.com/news): Explore Upscale AI's blog for insights on next-generation ethernet, open-source network operating systems, and AI-powered networking solutions.
+- [Press Releases](https://upscale.com/press-releases): Explore Upscale AI's blog for insights on next-generation ethernet, open-source network operating systems, and AI-powered networking solutions.
+- [Privacy Policy | Upscale AI](https://upscale.com/privacy-policy): Learn how Upscale AI collects, uses, and protects your personal information. Review our privacy practices, your rights, and how we handle data securely.
+- [Resources](https://upscale.com/resources): AI workloads have outpaced the infrastructure built to support them. General-purpose networks weren't designed for the speed, scale, and complexity of modern AI. It’s time for a network designed for the future.
+- [AI Networking Solutions | Upscale AI](https://upscale.com/solution): Full-stack AI networking for training and inference. Open-standard architecture delivering low-latency, high-throughput performance at any scale.
+- [Videos | Upscale AI Insights & Industry Perspectives](https://upscale.com/videos): Watch expert insights on AI networking technology. Explore video content covering next-generation ethernet and data center innovations from Upscale AI.
+
+## Blogs
+
+- [AI Infrastructure: From “General” to “Purpose-Built”](https://upscale.com/blogs/ai-infrastructure-from-general-to-purpose-built): Upscale AI was founded around a simple premise: AI infrastructure requires a network built specifically for AI.
+- [Communications within a High-Bandwidth Domain (Pod) of Accelerators (GPUs): Mesh vs switched](https://upscale.com/blogs/communications-within-a-high-bandwidth-domain-pod-of-accelerators-gpus-mesh-vs-switched): AI infrastructure is scaling at an incredibly fast pace in the cloud and the edge data centers for both training and inference.
+- [From $100M Seed to Unicorn in Months Upscale AI Closes Oversubscribed $200M Series A to Build the First Pure-Play AI Networking Company](https://upscale.com/blogs/from-100m-seed-to-unicorn-in-months-upscale-ai-closes-oversubscribed-200m-series-a-to-build-the-first-pure-play-ai-networking-company)
+- [From Scale-Up to Scale-Out: Upscale AI Extends Its Open Networking Vision Through NVIDIA Partnership](https://upscale.com/blogs/from-scale-up-to-scale-out-upscale-ai-extends-its-open-networking-vision-through-nvidia-partnership): A core element of Upscale AI’s approach is its AI-optimized implementation of SONiC, the open-source network operating system widely used in hyperscale environments.
+- [High-Performance Open Standards-Based Networking Fabric to Drive Growth for Generative AI Datacenters](https://upscale.com/blogs/high-performance-open-standards-based-networking-fabric-to-drive-growth-for-generative-ai-datacenters): Generative AI training and inference workloads are becoming increasingly complex, involving enormous datasets and requiring significant computational resources to generate, fine-tune, and deploy AI models.
+- [Rack is the Unit of AI](https://upscale.com/blogs/rack-is-the-unit-of-ai): The natural next step was the node: stuffing 8 GPUs into a server, hoping tighter integration would offset memory and bandwidth constraints.
+- [Upscale AI Deepens Commitment to SONiC and Open Networking](https://upscale.com/blogs/upscale-ai-deepens-commitment-to-sonic-and-open-networking)
+- [Upscale AI Expands Leadership Team, Accelerating its Vision to Redefine AI Networking](https://upscale.com/blogs/upscale-ai-expands-leadership-team-accelerating-its-vision-to-redefine-ai-networking): New hires will help drive Upscale AI’s continued growth and momentum
+- [Upscale AI Founding Team Members to Speak at Networking Field Day 40](https://upscale.com/blogs/upscale-ai-founding-team-members-to-speak-at-networking-field-day-40)
+- [Upscale AI Launches with Over $100 Million Seed Round to Democratize AI Network Infrastructure and Advance Open Standards](https://upscale.com/blogs/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards): Led by industry veterans from Palo Alto Networks, Marvell, Cisco, and Google, Upscale AI is introducing sustainable, ultra-low latency network infrastructure solutions purpose-built for AI, interconnecting compute, data, and users
+- [Upscale AI Supercharges Open, Heterogeneous Scale-Out AI Clusters with NVIDIA Ethernet Switch Silicon](https://upscale.com/blogs/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon): Upscale AI to Deliver an Open, Interoperable AI Fabric with NVIDIA Spectrum-X Ethernet and AI-Optimized Systems & Software
+- [Upscale AI to Exhibit and Speak at 2026 OCP EMEA Summit](https://upscale.com/blogs/upscale-ai-to-exhibit-and-speak-at-2026-ocp-emea-summit)
+- [Upscale AI to Exhibit and Speak at OCP Global Summit](https://upscale.com/blogs/upscale-ai-to-exhibit-and-speak-at-ocp-global-summit): Newly launched AI networking company to showcase its scale-up networking portfolio at OCP
+- [Upscale AI to Take the Stage at Reuters Momentum AI New York 2026](https://upscale.com/blogs/upscale-ai-to-take-the-stage-at-reuters-momentum-ai-new-york-2026)
+- [Upscale AI Unveils SkyHammer™ Architecture](https://upscale.com/blogs/upscale-ai-unveils-skyhammer-tm-architecture): A Ground-Up Design for Scale-Up AI Networking at Massive Scale
+- [Why Scale-up Needs Memory Semantics?](https://upscale.com/blogs/why-scale-up-needs-memory-semantics): The quest for building ever more powerful AI systems inevitably leads us to the challenge of scale-up networking.
+
+## Products
+
+- [Scale Out | Upscale AI](https://upscale.com/products/scale-out): Upscale AI delivers open, interoperable Ethernet systems built on NVIDIA Spectrum-X switch silicon and a SONiC-based network operating system. Designed for heterogeneous AI clusters, these systems connect accelerators, memory, and storage into a high-performance fabric for distributed training and large-scale inference.
+- [Scale Up | Upscale AI](https://upscale.com/products/scale-up): SkyHammer is designed to deliver deterministic, low-latency scale-up networking for synchronized AI workloads. Built from the ASIC up, it reduces communication bottlenecks across accelerators, memory, and storage — enabling large-scale training and inference to run faster, more efficiently, and with more predictable performance.
+
+## Videos
+
+- [Building the next generation of ethernet](https://upscale.com/videos/building-the-next-generation-of-ethernet): The open-source network operating system powering some of the world's largest data centers.
+- [Building the next generation of ethernet](https://upscale.com/videos/building-the-next-generation-of-ethernet-3): The open-source network operating system powering some of the world's largest data centers.

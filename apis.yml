@@ -1,7 +1,16 @@
 aid: upscale-ai
-name: Upscale Ai
-description: Upscale Ai is a company surfaced as a portfolio company of mayfield and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Upscale AI
+description: 'Upscale AI is a pure-play AI networking infrastructure company headquartered
+  in Santa Clara, California, founded by industry veterans from Palo Alto Networks,
+  Marvell, Cisco, and Google and led by CEO Barun Kar. The company builds a full-stack,
+  open-standards AI fabric spanning silicon, systems, and software — its SkyHammer
+  scale-up ASIC architecture and NVIDIA Spectrum-X/SONiC-based scale-out Ethernet
+  systems connect accelerators, memory, and storage for large-scale AI training and
+  inference. Backed by Mayfield among others (Premji Invest, NVIDIA, Salesforce Ventures,
+  Temasek, Tiger Global), it has raised $500M total at a $2B valuation. The company
+  publishes no public API, developer portal, or machine-readable interface surface
+  beyond a Webflow-served llms.txt; it sells networking hardware and software evaluated
+  by hyperscalers and neoclouds.'
 url: https://raw.githubusercontent.com/api-evangelist/upscale-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,31 @@ x-backed-by:
 - mayfield
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.prod.website-files.com/69f204126eaf7be374423cb7/6a2a9604614cb8c10b88c30c_7467f75189ac97630db682c524581049_OG%20Image.png
 tags:
 - Company
+- Artificial Intelligence
+- Networking
+- AI Infrastructure
+- Data Centers
+- Ethernet
+- Hardware
+- SONiC
+- Santa Clara
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +51,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://upscaleai.com
+  url: https://upscale.com
+- type: About
+  url: https://upscale.com/about-us
+- type: Blog
+  url: https://upscale.com/blogs
+- type: PressReleases
+  url: https://upscale.com/press-releases
+- type: Careers
+  url: https://upscale.com/careers
+- type: PrivacyPolicy
+  url: https://upscale.com/privacy-policy
+- type: TermsOfService
+  url: https://upscale.com/terms-of-use
+- type: LinkedIn
+  url: https://www.linkedin.com/company/upscale-ai-inc
+- type: LLMsTxt
+  url: llms/upscale-ai-llms.txt
+- type: DomainSecurity
+  url: security/upscale-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
